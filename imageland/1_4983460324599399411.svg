@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 385 425" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Artboard1" transform="matrix(0.200091,0,0,0.393353,0,0)">
+        <rect x="0" y="0" width="1920" height="1080" style="fill:none;"/>
+        <g transform="matrix(3.53838,0,0,1.79991,-4715.38,-339.479)">
+            <g id="Layer1">
+                <g>
+                    <g transform="matrix(0.805152,0,0,0.805152,1021,108.34)">
+                        <path d="M631.605,453.447C616.196,441.286 602.978,426.469 592.645,409.689C576.991,384.268 567.958,354.343 567.958,322.324C567.958,230.178 642.769,155.368 734.914,155.368C827.06,155.368 901.871,230.178 901.871,322.324C901.871,360.828 888.808,396.305 866.877,424.562C852.277,443.372 833.747,458.983 812.524,470.157C752.315,462.648 696.776,449.883 631.605,453.447Z" style="fill:url(#_Linear1);"/>
+                    </g>
+                    <g transform="matrix(7.88791,0,0,7.88791,-2924.27,-5834.46)">
+                        <g transform="matrix(24,0,0,24,603.617,829.105)">
+                        </g>
+                        <text x="545.855px" y="829.105px" style="font-family:'Candara-Bold', 'Candara';font-weight:700;font-size:24px;fill:rgb(31,198,235);">LEILA</text>
+                    </g>
+                    <g transform="matrix(2.34753,0,0,2.04811,-225.562,-1256.2)">
+                        <g transform="matrix(24,0,0,24,871.069,979.929)">
+                        </g>
+                        <text x="688.858px" y="979.929px" style="font-family:'Candara-Light', 'Candara';font-size:24px;fill:rgb(13,47,107);">h<tspan x="716.079px 743.897px 763.219px 782.224px 809.819px 836.008px 861.014px " y="979.929px 979.929px 979.929px 979.929px 979.929px 979.929px 979.929px ">olidays</tspan></text>
+                    </g>
+                    <g transform="matrix(1,0,0,1,737.617,-7.26716)">
+                        <path d="M686.834,555.191C756.104,482.226 1008.7,586.931 1091.15,523.367C1006.25,620.131 777.368,520.523 686.834,555.191ZM629.138,553.031C625.673,554.976 671.351,502.118 756.903,489.838C758.384,489.626 759.876,489.425 761.381,489.238C777.526,487.223 796.081,487.052 816.049,488.006C894.606,491.76 995.028,512.937 1056.6,507.863C1072.26,506.573 1099.79,502.715 1099.52,490.564C1099.42,486.069 1065.43,484.045 1065.43,484.045C1065.43,484.045 1107.81,472.466 1107.79,491.945C1107.76,509.198 1076.19,520.346 1056.29,524.264C980.78,539.127 839.291,507.771 767.815,512.66C717.508,516.102 685.76,521.248 629.138,553.031Z" style="fill:rgb(31,198,235);"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Layer2">
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-9.55918,273.393,-273.393,-9.55918,739.283,251.654)"><stop offset="0" style="stop-color:rgb(235,214,31);stop-opacity:1"/><stop offset="0.51" style="stop-color:rgb(211,123,33);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(203,91,34);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
